@@ -13,6 +13,6 @@ To set up this game on your on computer, please follow the following instruction
 5. Traverse to the 'debug' directory (cd debug).
 6. Set up your dependency environment with cmake (cmake ..).
 7. Compile the project with make (make).
-8. Run the equestionsxecutable (./main).
+8. Run the executable (./main).
 
 If you'd like to view more in-depth information about the game, or need any help , please direct questions to rmanjaly@email.wm.edu
